@@ -5,8 +5,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-[![Скачать в RuStore](https://img.shields.io/badge/RuStore-Скачать-7B3FE4?logo=android&logoColor=white)](https://www.rustore.ru/catalog/app/com.example.zapisnayakniga)
-
 ---
 
 ### 📊 Статус проекта:
@@ -77,6 +75,14 @@
 ### 📌 О проекте
 
 > Проект разработан как портфолио-решение для демонстрации навыков разработки под **Android на Java**. Показывает работу с навигацией между Activity, генерацией заданий по категориям, обработкой пользовательского ввода, динамическим обновлением интерфейса, цветовым выделением элементов и сохранением статистики ответов за всё время использования.
+
+---
+
+### 📥 Скачать
+
+Приложение можно скачать в RuStore:
+
+**https://www.rustore.ru/catalog/app/com.example.zapisnayakniga**
 
 ---
 
