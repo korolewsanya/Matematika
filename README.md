@@ -5,6 +5,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+[![Скачать в RuStore](https://img.shields.io/badge/RuStore-Скачать-7B3FE4?logo=android&logoColor=white)](https://www.rustore.ru/catalog/app/com.example.zapisnayakniga)
+
 ---
 
 ### 📊 Статус проекта:
