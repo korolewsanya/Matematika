@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="matem.test.fave">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_p_round"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_p_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="matem.test.fave.Wes"
+            android:configChanges="keyboardHidden|orientation|screenSize"   ></activity>
+        <activity android:name="matem.test.fave.Vremya"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name="matem.test.fave.Vdlin"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name="matem.test.fave.SravDlin"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name="matem.test.fave.Shab" />
+        <activity android:name="matem.test.fave.Raven"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name="matem.test.fave.Primer"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name="matem.test.fave.Jid"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name="matem.test.fave.Dlinna"
+            android:configChanges="keyboardHidden|orientation|screenSize"/>
+        <activity android:name="matem.test.fave.Gl"
+            android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,2 @@
+rootProject.name='APK'
+include ':app'
